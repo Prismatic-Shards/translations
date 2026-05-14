@@ -635,5 +635,6 @@
     "entity.stellarity.voided_skeleton": "Voided Skeleton",
     "entity.stellarity.voided_silverfish": "Voided Silverfish",
     "entity.stellarity.voided_slime": "Voided Slime",
-    "entity.stellarity.flesh_piglin": "Flesh Piglin"
+    "entity.stellarity.flesh_piglin": "Flesh Piglin",
+    "item.stellarity.potassifish": "Potassifish"
 }
