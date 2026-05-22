@@ -636,5 +636,9 @@
     "entity.stellarity.voided_silverfish": "Voided Silverfish",
     "entity.stellarity.voided_slime": "Voided Slime",
     "entity.stellarity.flesh_piglin": "Flesh Piglin",
-    "item.stellarity.potassifish": "Potassifish"
+    "item.stellarity.potassifish": "Potassifish",
+    "death.attack.stellarity.void_arrow_shrapnel": "%1$s was gored by shards of the void",
+    "block.stellarity.coarse_ender_dirt": "Coarse Ender Dirt",
+    "tag.item.stellarity.enchantable.elytra": "Elytra Enchantable",
+    "tag.item.stellarity.enchantable.ranged": "Ranged Weapon Enchantable"
 }
