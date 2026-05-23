@@ -640,5 +640,6 @@
     "death.attack.stellarity.void_arrow_shrapnel": "%1$s was gored by shards of the void",
     "block.stellarity.coarse_ender_dirt": "Coarse Ender Dirt",
     "tag.item.stellarity.enchantable.elytra": "Elytra Enchantable",
-    "tag.item.stellarity.enchantable.ranged": "Ranged Weapon Enchantable"
+    "tag.item.stellarity.enchantable.ranged": "Ranged Weapon Enchantable",
+    "tag.item.stellarity.bows": "Stellarity Bows"
 }
