@@ -623,7 +623,7 @@
 	"stellarity.config.migrations.title": "Migrates Old Content",
 	"stellarity.config.nerf_elytra.description": "Nerfs the Elytra by making them take extra damage from boosting.",
 	"stellarity.config.nerf_elytra.title": "Nerf Elytra",
-	"stellarity.config.shulking_health.description": "Changes maximum health of the Shulking. Max: 1024",
+	"stellarity.config.shulking_health.description": "Changes maximum health of the Shulking.",
 	"stellarity.config.shulking_health.title": "Shulking Max Health",
 	"stellarity.config.title": "Stellarity Configuration",
 	"stellarity.config.track_loop_delay.dragon.description": "Number of ticks Dragon's boss theme is going to loop after. Only edit if you actually have a reason to.",
