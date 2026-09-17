@@ -570,13 +570,13 @@
   "item.stellarity.prismite": "Призмит",
   "item.stellarity.purpur_key": "Пурпурный ключ",
   "item.stellarity.purpur_key.description": "Отпирает хранилища в городах Края",
-  "item.stellarity.radiant_jewel": "Radiant Jewel",
+  "item.stellarity.radiant_jewel": "Лучезарный самоцвет",
   "item.stellarity.radiant_jewel.description.1": "Enhances all Empress of Light items",
   "item.stellarity.radiant_jewel.description.2": "while in any inventory slot",
-  "item.stellarity.red_potion": "Red Potion",
-  "item.stellarity.regeneraga": "Regeneraga",
-  "item.stellarity.reinforced_horse_armor": "Reinforced Horse Armor",
-  "item.stellarity.royal_jelly": "Royal Jelly",
+  "item.stellarity.red_potion": "Красное зелье",
+  "item.stellarity.regeneraga": "Регенерага",
+  "item.stellarity.reinforced_horse_armor": "Укреплённая конская броня",
+  "item.stellarity.royal_jelly": "Маточное молочко",
   "item.stellarity.royal_jelly.usage": "Очищает ото всех отрицательных эффектов",
   "item.stellarity.sand_rune": "Песчаная руна",
   "item.stellarity.sandstorm_trident": "Трезубец песчаных бурь",
@@ -779,6 +779,6 @@
   "subtitles.stellarity.item.kaleidoscope.ready": "Калейдоскоп заряжен",
   "subtitles.stellarity.item.living_flesh.boost": "Живая плоть изнывает",
   "subtitles.stellarity.item.void_pendant.zap": "Electric Shock",
-  "trim_material.stellarity.chorus": "Chorus Material",
-  "trim_material.stellarity.enderite": "Enderite Material"
+  "trim_material.stellarity.chorus": "Хорус",
+  "trim_material.stellarity.enderite": "Эндерит"
 }
