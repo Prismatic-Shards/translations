@@ -3,7 +3,7 @@
   "item.recondite.common_ink": "Gewöhnliche Tinte",
   "item.recondite.ender_elemental_spellbook": "Ender Elementar-Zauberbuch",
   "item.recondite.ender_elemental_spellbook.description.1": "Zauberbuch, das mit geheimnissvollen Runen durchdrungen ist",
-  "item.recondite.ender_elemental_spellbook.magic_missle": "Magische Rakete",
+  "item.recondite.ender_elemental_spellbook.magic_missile": "Magische Rakete",
   "item.recondite.ender_elemental_spellbook.microgravity": "Mikroschwerkraft",
   "item.recondite.ender_elemental_spellbook.teleportation": "Teleportation",
   "item.recondite.epic_ink": "Epische Tinte",
@@ -48,5 +48,5 @@
   "message.recondite.snowgrave_weak": "Zu schwach...",
   "message.recondite.spell_cooldown": "Zauber lädt noch auf",
   "message.recondite.spell_not_available": "Zauber nicht verfügbar",
-  "message.recondite.spell_selection": "Zaube ist jetzt"
+  "message.recondite.spell_selection": "|| Spell is now"
 }
